@@ -85,11 +85,10 @@ flowchart LR
 [![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=DHARANISH89&theme=tokyonight&hide_border=true)](https://github.com/DHARANISH89)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DHARANISH89&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true)
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DHARANISH89&layout=compact&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
 
 ![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DHARANISH89&theme=tokyonight)
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=DHARANISH89&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7)
 
 </div>
 

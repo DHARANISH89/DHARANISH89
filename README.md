@@ -58,7 +58,6 @@ flowchart LR
     G --> H[Scheduled<br/>Email Delivery]
 ```
 
-**Repository:** `ADD_OCS_REPOSITORY_URL_HERE`
 
 ## 📂 More From My Repos
 

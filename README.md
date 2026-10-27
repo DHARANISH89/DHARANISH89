@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=200&section=header&text=Hi,%20I'm%20Dharanish&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%26%20Data%20Science%20Engineer&descAlignY=58&descSize=20" width="100%" alt="Banner" />
+<img src="banner.svg" width="100%" alt="Hi, I'm Dharanish - AI & Data Science Engineer" />
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2E8B57&center=true&vCenter=true&width=700&lines=Aspiring+Data+Scientist;AI+%26+Machine+Learning+Engineer;Python+%C2%B7+TypeScript+%C2%B7+SQL+%C2%B7+AWS;Turning+operational+data+into+explainable+insights)](https://github.com/DHARANISH89)
 
@@ -8,7 +8,7 @@
 [![GitHub](https://img.shields.io/badge/GitHub-DHARANISH89-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DHARANISH89)
 [![Profile Views](https://komarev.com/ghpvc/?username=DHARANISH89&style=for-the-badge&color=2E8B57&label=Profile+Views)](https://github.com/DHARANISH89)
 
-<img src="assets/divider.svg" width="100%" alt="" />
+<img src="divider.svg" width="100%" alt="" />
 
 </div>
 
@@ -23,17 +23,17 @@ I'm an **AI & Data Science engineer (B.E., 2026)** who likes building practical,
 | 🎯 **What I care about** | Reliable, explainable outputs that help teams make decisions |
 | 📫 **Open to** | Data Science, ML Engineering, and Data Engineering roles |
 
-<div align="center"><img src="assets/divider.svg" width="100%" alt="" /></div>
+<div align="center"><img src="divider.svg" width="100%" alt="" /></div>
 
 ## 🛠️ Tech Stack
 
 <div align="center">
 
-<img src="assets/tech-stack.svg" alt="Python, TypeScript, Jupyter, NumPy, SQL Server, AWS, Cloudflare, Git, GitHub" />
+<img src="tech-stack.svg" alt="Python, TypeScript, Jupyter, NumPy, SQL Server, AWS, Cloudflare, Git, GitHub" />
 
 </div>
 
-<div align="center"><img src="assets/divider.svg" width="100%" alt="" /></div>
+<div align="center"><img src="divider.svg" width="100%" alt="" /></div>
 
 ## 🚀 Featured Project
 
@@ -71,13 +71,13 @@ flowchart LR
 | [**House-price-prediction**](https://github.com/DHARANISH89/House-price-prediction) | Housing price model using Support Vector Regression with feature engineering and hyperparameter tuning | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) |
 | [**Customer-segmentation**](https://github.com/DHARANISH89/Customer-segmentation) | K-Means customer segmentation with EDA and Elbow / Silhouette cluster selection | ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?logo=jupyter&logoColor=white) |
 
-<div align="center"><img src="assets/divider.svg" width="100%" alt="" /></div>
+<div align="center"><img src="divider.svg" width="100%" alt="" /></div>
 
 ## 📜 Certification
 
 - 🏅 **Oracle Certified Professional: Generative AI**
 
-<div align="center"><img src="assets/divider.svg" width="100%" alt="" /></div>
+<div align="center"><img src="divider.svg" width="100%" alt="" /></div>
 
 ## 📊 GitHub Stats
 
@@ -96,7 +96,7 @@ flowchart LR
 
 > Stats cards come from third-party services and may occasionally be unavailable or rate-limited. Language percentages reflect repository contents, not overall skill level.
 
-<div align="center"><img src="assets/divider.svg" width="100%" alt="" /></div>
+<div align="center"><img src="divider.svg" width="100%" alt="" /></div>
 
 ## 🤝 Let's Connect
 
@@ -107,6 +107,6 @@ flowchart LR
 
 *Building reliable data systems today, growing toward production-ready ML tomorrow.*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=100&section=footer" width="100%" alt="Footer" />
+<img src="divider.svg" width="100%" alt="" />
 
 </div>
